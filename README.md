@@ -11,8 +11,6 @@
 - 🥋 I'm inlove with programming and problem solving and dedicate a lot of time to improving my craft.
 - 📘 I’m currently learning **New technologies and concepts**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/tomasgcosta/ "LinkedIn Profile").
-
 
 ## 🚀 Languages:
 
