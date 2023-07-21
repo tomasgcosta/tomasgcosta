@@ -1,14 +1,11 @@
 
-<h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Tomás Costa</b></h1>
+<h1 align="center"><b>Tomás Costa</b></h1>
 
-<h2 align="center"><b>I'm a Software Developer from Portugal</b></h2>
+<h2 align="center"><b>Software Developer from Portugal</b></h2>
 
 <h4 align="center"><b>Backend Developer | JavaScript, React.js, TypeScript, HTML/CSS, Tailwind | </b></h4>
 
 ## 🙋‍♂️ About Me
-
-<a><img align="right" src="https://stats.quine.sh/tomasgcosta/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
-
 <br>
 
 - 🥋 I'm inlove with programming and problem solving and dedicate a lot of time to improving my craft.
