@@ -3,7 +3,7 @@
 
 <h2 align="center"><b>I'm a Software Developer from Portugal</b></h2>
 
-<h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, ReactJS, Git | BSc IT Student</b></h4>
+<h4 align="center"><b>Backend Developer | JavaScript, React.js, TypeScript, HTML/CSS, Tailwind | </b></h4>
 
 ## 🙋‍♂️ About Me
 
