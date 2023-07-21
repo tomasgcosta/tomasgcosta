@@ -3,14 +3,13 @@
 
 <h2 align="center"><b>Software Developer from Portugal</b></h2>
 
-<h4 align="center"><b>Backend Developer | JavaScript, React.js, TypeScript, HTML/CSS, Tailwind | </b></h4>
+<h4 align="center"><b>Backend Developer <br>| JavaScript, React.js, TypeScript, HTML/CSS, Tailwind | </b></h4>
 
 ## 🙋‍♂️ About Me
 <br>
 
 - 🥋 I'm inlove with programming and problem solving and dedicate a lot of time to improving my craft.
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
-- 📘 I’m currently using **MERN (MongoDB, Express.js, React.js, Node.js)**.
+- 📘 I’m currently learning **New technologies and concepts**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/tomasgcosta/ "LinkedIn Profile").
 
