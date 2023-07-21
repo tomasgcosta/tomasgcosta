@@ -12,6 +12,11 @@
 - 📘 I’m currently learning **New technologies and concepts**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 
+## 📧 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasgoncalo "@tomasgoncalo")
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomasgcosta "@tomasgcosta")
+
 ## 🚀 Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
@@ -42,9 +47,3 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=tomasgcosta&theme=tokyo-night&radius=16">
   </a>
-
-
-## 📧 Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasgoncalo "@tomasgoncalo")
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomasgcosta "@tomasgcosta")
