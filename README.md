@@ -3,15 +3,6 @@
 
 <h2 align="center"><b>Software Developer from Portugal</b></h2>
 
-<h4 align="center"><b>Backend Developer <br>| JavaScript, React.js, TypeScript, HTML/CSS, Tailwind | </b></h4>
-
-## 🙋‍♂️ About Me
-<br>
-
-- 🥋 I'm inlove with programming and problem solving and dedicate a lot of time to improving my craft.
-- 📘 I’m currently learning **New technologies and concepts**.
-- 👯 I’m looking to collaborate on **Open-Source Projects**.
-
 ## 📧 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasgoncalo "@tomasgoncalo")
