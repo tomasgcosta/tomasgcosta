@@ -23,7 +23,8 @@
 </p>
 
 ## 📈 GitHub Contribution Graph
-
+<p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=tomasgcosta&theme=tokyo-night&radius=16">
   </a>
+</p>
