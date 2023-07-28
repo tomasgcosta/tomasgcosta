@@ -1,7 +1,5 @@
-<p align="center">
-<h1><b>Tomás Costa</b></h1>
-<h2><b>Software Developer from Portugal</b></h2>
-<p>
+<h1 align="center"><b>Tomás Costa</b></h1>
+
 
 ## Connect with me:
 
