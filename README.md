@@ -1,4 +1,13 @@
-## Languages:
+###
+
+<h1 align="center">Tomás Costa</h1>
+
+###
+
+<p align="center">Developer based in Portugal</p>
+
+###
+## Working with
 
 <p align="center">
   <a href="https://skillicons.dev">
