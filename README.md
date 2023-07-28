@@ -7,7 +7,8 @@
 <p align="center">Developer based in Portugal</p>
 
 ###
-## Working with
+<h3 align="left">Working with</h3>
+###
 
 <p align="center">
   <a href="https://skillicons.dev">
