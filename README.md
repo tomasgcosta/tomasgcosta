@@ -5,7 +5,6 @@
 ## 📧 Connect with me:
 
 [![LinkedIn Badge](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tomasgoncalo "@tomasgoncalo")
-[![GitHub Badge](https://skillicons.dev/icons?i=github)](https://github.com/tomasgcosta "@tomasgcosta")
 
 
 ## 🚀 Languages:
