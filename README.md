@@ -3,10 +3,10 @@
 <h2 align="center"><b>Software Developer from Portugal</b></h2>
 
 ## 📧 Connect with me:
-<p align="center">
+
 [![LinkedIn Badge](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tomasgoncalo "@tomasgoncalo")
 [![GitHub Badge](https://skillicons.dev/icons?i=github)](https://github.com/tomasgcosta "@tomasgcosta")
-</p>
+
 
 ## 🚀 Languages:
 
