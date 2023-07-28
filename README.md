@@ -1,12 +1,4 @@
 ###
-
-<h1 align="center">Tomás Costa</h1>
-
-###
-
-<p align="center">Developer based in Portugal</p>
-
-###
 <h3 align="center">Working with</h3>
 
 
